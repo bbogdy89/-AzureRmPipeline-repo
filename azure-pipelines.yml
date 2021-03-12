@@ -17,7 +17,7 @@ steps:
     subscriptionId: '3376f1b9-a61c-48dd-9eb7-880170e5222f'
     action: 'Create Or Update Resource Group'
     resourceGroupName: 'Balaur_Bogdan'
-    location: 'West Europe'
+    location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/bbogdy89/AzureRmPipeline-repo/main/CreateWebApp/azuredeploy.json'
     csmParametersFileLink: '-projectName myarmpipeline'
